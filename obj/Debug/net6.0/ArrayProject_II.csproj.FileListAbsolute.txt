@@ -1,0 +1,14 @@
+C:\Users\MCA\source\repos\ArrayProject_II\bin\Debug\net6.0\ArrayProject_II.exe
+C:\Users\MCA\source\repos\ArrayProject_II\bin\Debug\net6.0\ArrayProject_II.deps.json
+C:\Users\MCA\source\repos\ArrayProject_II\bin\Debug\net6.0\ArrayProject_II.runtimeconfig.json
+C:\Users\MCA\source\repos\ArrayProject_II\bin\Debug\net6.0\ArrayProject_II.dll
+C:\Users\MCA\source\repos\ArrayProject_II\bin\Debug\net6.0\ArrayProject_II.pdb
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ArrayProject_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ArrayProject_II.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ArrayProject_II.AssemblyInfo.cs
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ArrayProject_II.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ArrayProject_II.dll
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\refint\ArrayProject_II.dll
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ArrayProject_II.pdb
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ArrayProject_II.genruntimeconfig.cache
+C:\Users\MCA\source\repos\ArrayProject_II\obj\Debug\net6.0\ref\ArrayProject_II.dll
